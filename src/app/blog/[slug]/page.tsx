@@ -46,7 +46,6 @@ export default function BlogDetails() {
   if (!blog) {
     return <div>Blog not found. Please check the slug or Sanity configuration.</div>;
   }
-else (!blog)
   return (
     <div>
       <Header />
