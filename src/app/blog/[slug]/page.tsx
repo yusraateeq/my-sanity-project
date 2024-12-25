@@ -70,7 +70,7 @@ export default function BlogDetails() {
         </div>
 
         <div className="mt-8 text-center">
-          <Link href="/blog" className="text-blue-600 hover:text-blue-800 font-semibold text-lg">
+          <Link href="/" className="text-blue-600 hover:text-blue-800 font-semibold text-lg">
             ← Back to Blog
           </Link>
         </div>
